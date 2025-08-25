@@ -4,5 +4,4 @@ timezone = "USA/Eastern"
 time = "4:30 PM"
 timezone = "Asia/Kathmandu"
 
-print (time)
-print(timezone)
+print (time + " in " + timezone)
