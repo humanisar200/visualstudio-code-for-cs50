@@ -15,6 +15,7 @@ def main():
               print (show.capitalize())
               print (show.title())
               print (show.strip())
+              print (show.strip().title())
 
 
 main()
