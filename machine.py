@@ -2,7 +2,7 @@ emoticon = "v.v"
 
 
 def main():
-        global
+        global emoticon
         say("is there anyone there?")
         emoticon = ":D"
         say("oh , hi!")
