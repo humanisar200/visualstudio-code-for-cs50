@@ -13,6 +13,7 @@ SHOWS = [
 def main():
        for show in SHOWS:
               print (show.capitalize())
+              print (show.title())
 
 
 main()
