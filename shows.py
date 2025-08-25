@@ -18,7 +18,7 @@ def main():
               print (show.strip())
               cleaned_shows.append (show.strip().title())
 
-             print(''.join(cleaned_shows))
+              print(' '.join(cleaned_shows))
 
 
               print(cleaned_shows)
