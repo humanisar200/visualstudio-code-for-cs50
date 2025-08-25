@@ -6,7 +6,7 @@ def main():
         say("oh , hi!")
 
 
-def say(phrase)
+def say(phrase):
         print(phrase + " " + emoticon)
 
 
