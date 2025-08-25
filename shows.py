@@ -14,6 +14,7 @@ def main():
        for show in SHOWS:
               print (show.capitalize())
               print (show.title())
+              print (show.strip())
 
 
 main()
