@@ -7,4 +7,8 @@ def main():
 
     while len(WORDS) > 0:
         print(f"{len(WORDS)} words left!")
-        guess = input ("Guess a word")
+        guess = input ("Guess a word:")
+
+        #TODO: check if guess in dictionary
+
+        print("That's the game")
